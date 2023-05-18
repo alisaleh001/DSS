@@ -1,0 +1,42 @@
+E:\C#.projects\Methods Task\Methods Task\bin\Debug\Methods Task.exe.config
+E:\C#.projects\Methods Task\Methods Task\bin\Debug\Methods Task.exe
+E:\C#.projects\Methods Task\Methods Task\bin\Debug\Methods Task.pdb
+E:\C#.projects\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.AssemblyReference.cache
+E:\C#.projects\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.SuggestedBindingRedirects.cache
+E:\C#.projects\Methods Task\Methods Task\obj\Debug\Methods_Task.Form1.resources
+E:\C#.projects\Methods Task\Methods Task\obj\Debug\Methods_Task.Properties.Resources.resources
+E:\C#.projects\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.GenerateResource.cache
+E:\C#.projects\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.CoreCompileInputs.cache
+E:\C#.projects\Methods Task\Methods Task\obj\Debug\Methods Task.exe
+E:\C#.projects\Methods Task\Methods Task\obj\Debug\Methods Task.pdb
+E:\C#.projects\Methods Task\Methods Task\obj\Debug\Methods_Task.Form2.resources
+E:\C#.projects\Methods Task\Methods Task\bin\Debug\Guna.UI2.dll
+E:\C#.projects\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.CopyComplete
+E:\Bright_Team\term2\Methods Task\Methods Task\bin\Debug\Methods Task.exe.config
+E:\Bright_Team\term2\Methods Task\Methods Task\bin\Debug\Methods Task.exe
+E:\Bright_Team\term2\Methods Task\Methods Task\bin\Debug\Methods Task.pdb
+E:\Bright_Team\term2\Methods Task\Methods Task\bin\Debug\Guna.UI2.dll
+E:\Bright_Team\term2\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.AssemblyReference.cache
+E:\Bright_Team\term2\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.SuggestedBindingRedirects.cache
+E:\Bright_Team\term2\Methods Task\Methods Task\obj\Debug\Methods_Task.Form1.resources
+E:\Bright_Team\term2\Methods Task\Methods Task\obj\Debug\Methods_Task.Form2.resources
+E:\Bright_Team\term2\Methods Task\Methods Task\obj\Debug\Methods_Task.Properties.Resources.resources
+E:\Bright_Team\term2\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.GenerateResource.cache
+E:\Bright_Team\term2\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.CoreCompileInputs.cache
+E:\Bright_Team\term2\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.CopyComplete
+E:\Bright_Team\term2\Methods Task\Methods Task\obj\Debug\Methods Task.exe
+E:\Bright_Team\term2\Methods Task\Methods Task\obj\Debug\Methods Task.pdb
+C:\Users\DELL\Desktop\Methods Task\Methods Task\Methods Task\bin\Debug\Methods Task.exe.config
+C:\Users\DELL\Desktop\Methods Task\Methods Task\Methods Task\bin\Debug\Methods Task.exe
+C:\Users\DELL\Desktop\Methods Task\Methods Task\Methods Task\bin\Debug\Methods Task.pdb
+C:\Users\DELL\Desktop\Methods Task\Methods Task\Methods Task\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\Desktop\Methods Task\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Methods Task\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Methods Task\Methods Task\Methods Task\obj\Debug\Methods_Task.Form1.resources
+C:\Users\DELL\Desktop\Methods Task\Methods Task\Methods Task\obj\Debug\Methods_Task.Form2.resources
+C:\Users\DELL\Desktop\Methods Task\Methods Task\Methods Task\obj\Debug\Methods_Task.Properties.Resources.resources
+C:\Users\DELL\Desktop\Methods Task\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Methods Task\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Methods Task\Methods Task\Methods Task\obj\Debug\Methods Task.csproj.CopyComplete
+C:\Users\DELL\Desktop\Methods Task\Methods Task\Methods Task\obj\Debug\Methods Task.exe
+C:\Users\DELL\Desktop\Methods Task\Methods Task\Methods Task\obj\Debug\Methods Task.pdb
